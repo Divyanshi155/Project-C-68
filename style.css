@@ -1,0 +1,27 @@
+body {
+    text-align: center; 
+}
+
+html {
+    scroll-behavior: smooth; 
+}
+
+#contact {
+    margin-top: 100px; 
+}
+
+#school {
+    margin-top: 100px; 
+}
+
+marquee {
+    background-color: skyblue; 
+}
+
+h3 {
+    font-size: 20px; 
+}
+
+h4 {
+    font-size: 20px; 
+}
